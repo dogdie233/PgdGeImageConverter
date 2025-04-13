@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgdGeImageConverter.Core", "PgdGeImageConverter.Core\PgdGeImageConverter.Core.csproj", "{771DA187-75B1-47AE-98CB-9986D90D76DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771DA187-75B1-47AE-98CB-9986D90D76DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771DA187-75B1-47AE-98CB-9986D90D76DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771DA187-75B1-47AE-98CB-9986D90D76DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771DA187-75B1-47AE-98CB-9986D90D76DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
