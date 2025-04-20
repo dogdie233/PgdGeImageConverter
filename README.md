@@ -13,8 +13,8 @@
 
 ### 怎么卡在正在压缩了
 
-只是因为压缩很慢，我不会写压缩算法，你会的话欢迎来pr  
-或者选择不要压缩功能，找到`Compressor`类，把`No compression`那坨代码反注释掉
+只是因为压缩很慢，我不会写压缩算法，你会的话欢迎来pr🙂  
+或者选择不要压缩功能，找到`Compressor`类，把`No compression`那坨代码反注释掉 (或者下载NoCompression版本)
 
 ### Pgd3或者其他的支持吗
 
@@ -23,3 +23,4 @@
 ## 鸣谢
 
 https://github.com/crskycode/GARbro  有一些代码是直接从这里复制来的，算法也是看这里的
+https://github.com/SixLabors/ImageSharp  图片加载器
