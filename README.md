@@ -22,5 +22,5 @@
 
 ## 鸣谢
 
-https://github.com/crskycode/GARbro  有一些代码是直接从这里复制来的，算法也是看这里的
-https://github.com/SixLabors/ImageSharp  图片加载器
+ - https://github.com/crskycode/GARbro  有一些代码是直接从这里复制来的，算法也是看这里的
+ - https://github.com/SixLabors/ImageSharp  图片加载库
